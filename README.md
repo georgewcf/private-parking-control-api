@@ -26,9 +26,10 @@ ou HTTPS:
 git clone https://github.com/georgewcf/private-parking-control-api.git
 ```
 
-
->In this application, you can to CREATE, READ, UPDATE and DELETE parking informations.
-For this, run the application and choose your command in the Postman (GET, DELETE, PUT or DELETE).
+>You need to create a Database on PostgreSQL and write his URL, username and password on application.properties.
+> You also can to use this information as an example.
+>In this application, you can to CREATE, READ, UPDATE and DELETE parking information.
+For this, run the application on your IDE and choose your command in the Postman (GET, DELETE, PUT or DELETE).
 
 Example: 
 
