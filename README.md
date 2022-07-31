@@ -32,7 +32,7 @@ For this, run the application and choose your command in the Postman (GET, DELET
 
 Example: 
 
-####POST
+POST
 ```bash
 - Select 'POST' type, click on 'Body', click on 'raw' and change 'Text' for 'JSON';
 - Paste this URI label: http://localhost:8080/parking-spot;
@@ -58,14 +58,14 @@ Example:
     "block": "E"
 }
 ```
-####GET
+GET
 ```bash
 - Select 'GET' type
 - Paste this URI label: http://localhost:8080/parking-spot and click on 'Send'.
   Your status response will be '200 OK'.
 ```
 
-####PUT
+PUT
 ```bash
 - Select 'PUT' type
 - Paste this URI label: http://localhost:8080/parking-spot/{id} and click on 'Send'.
@@ -74,7 +74,7 @@ Example:
 
 ```
 
-####DELETE
+DELETE
 ```bash
 - Select 'DELETE' type
 - Paste this URI label: http://localhost:8080/parking-spot/{id} and click on 'Send'.
