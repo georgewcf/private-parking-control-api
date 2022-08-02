@@ -16,6 +16,13 @@
 	<properties>
 		<java.version>11</java.version>
 	</properties>
+	<developers>
+		<developer>
+			<name>George Ferreira</name>
+			<email>gehwallace@gmail.com</email>
+			<url>https://github.com/georgewcf/</url>
+		</developer>
+	</developers>
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
